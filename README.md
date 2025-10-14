@@ -5,11 +5,13 @@ Su objetivo principal es mejorar la calidad de vida de los usuarios mediante la 
 El sistema combina sensores, controladores y servicios de mantenimiento para ofrecer un entorno comodo, seguro y eecologico. 
 
 ----------------
-
+##🎯OBJETIVO DE NUESTRO PROYECTO
  ## ⚙️FUNCIONALIDADES PRINCIPALES
+ ## 
+ 
+ 
  
  -----------------------
- 
  ## 📷ANEXOS
  
  -------
