@@ -7,6 +7,7 @@ El sistema combina sensores, controladores y servicios de mantenimiento para ofr
 ----------------
 
  ##⚙️FUNCIONALIDADES PRINCIPALES
+ -----------------------
  ##📷ANEXOS
  ![Imagen de WhatsApp 2025-10-14 a las 17 42 02_3c4c0945](https://github.com/user-attachments/assets/2348d886-106b-4555-a6c6-b4e61ec02fe1)
  
